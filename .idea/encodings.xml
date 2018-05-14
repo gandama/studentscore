@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/action/admin_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/admin_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/classes_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/classes_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/course_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/course_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/grades_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/grades_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/specialty_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/specialty_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/stu_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/stu_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/tea_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/tea_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/DB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/DB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/DB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/service/loginService.java" charset="GBK" />
+  </component>
+</project>
